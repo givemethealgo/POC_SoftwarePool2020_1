@@ -1,0 +1,27 @@
+{
+  "name": "poc_softwarepool2020_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "lint:format": "eslint --fix",
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/givemethealgo/POC_SoftwarePool2020_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/givemethealgo/POC_SoftwarePool2020_1/issues"
+  },
+  "homepage": "https://github.com/givemethealgo/POC_SoftwarePool2020_1#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
